@@ -1,3 +1,17 @@
 //03.02.2026 ÖDEV
 
-arkadaşlar merhaba iyi akşamlar...
+Açıklama:
+  - Java Projesi oluşturunuz.Aşağıda istenenleri bu proje içerisinde yazınız ve console'da çıktı olarak gösteriniz.
+  - Yapılan ödevler github'ta .... reposuna yüklenecek.
+
+Herkes
+isim 
+soyisim 
+burç
+saat(noktalı şekilde)
+yaş
+
+
+yaş ifadesini 18 ile kıyaslayın ve sonucunu ekrana yazdırın.
+
+
