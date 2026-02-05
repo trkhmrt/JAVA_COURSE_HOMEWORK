@@ -1,0 +1,40 @@
+Öğrencilerin hem ne yapacaklarını anlamaları hem de kodun mantığını kavramaları için ödevleri birer "Problem Tanımı" şeklinde sunmak en iyisidir. İşte bu iki ödevi, öğrencilerine doğrudan gönderebileceğin, açıklamalı ve net halleri:
+
+Ödev 1: Sayı Analiz Makinesi
+Amaç: Temel döngü mantığını, kullanıcıdan veri almayı ve sayılar arasındaki mantıksal farkları (tek/çift, pozitif/negatif) kavramak.
+
+Soru Metni:
+
+"Kullanıcıdan kaç adet sayı girmek istediğini soran bir Java programı yazınız. Program, girilen sayı adedi kadar dönecek bir for döngüsü kullanmalıdır. Her sayı girildiğinde şu kontrolleri yapmalıdır:
+
+Sayı 0'dan büyük VE çift ise ekrana "Pozitif Çift Sayı" yazmalı.
+
+Sayı 0'dan küçük VEYA tek ise ekrana "Negatif veya Tek Sayı" yazmalı.
+
+Sayı 0 ise "Sıfır Girildi" yazmalı.
+
+Döngü sonunda, girilen tüm sayıların toplamını ekrana yazdırmalıdır."
+
+
+
+
+Ödev 2: Sınıf Başarı Takibi ve Ortalama Hesaplama
+Amaç: Belirli aralıklardaki verileri filtrelemeyi (if-else if), mantıksal operatörleri ve döngü içinde veri biriktirerek matematiksel sonuç (ortalama) üretmeyi öğrenmek.
+
+Soru Metni:
+
+"Bir öğretmenin sınıfındaki öğrencilerin notlarını girmesini sağlayan bir simülasyon hazırlayınız.
+
+Program başında kullanıcıdan öğrenci sayısı alınmalıdır.
+
+for döngüsü ile her öğrencinin notu sırayla istenmelidir.
+
+Kontrol Mekanizması: Eğer girilen not 0-100 aralığı dışında ise "Hatalı not girdiniz" uyarısı vermeli ve bu notu ortalamaya dahil etmemelidir.
+
+Değerlendirme: > * Not 85 ve 100 arasındaysa "Takdir Alabilir",
+
+Not 50 ve üzerindeyse "Geçti",
+
+Not 50'den küçükse "Kaldı" mesajı verilmelidir.
+
+Sonuç: Programın sonunda sınıfın not ortalaması ekrana yazdırılmalıdır."
