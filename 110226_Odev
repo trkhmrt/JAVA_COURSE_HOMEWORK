@@ -1,1 +1,18 @@
+/*
 
+Okul Otomasyonu
+
+!!DİKKAT!!
+Öğrenci isimleri List<String> içinde saklansın.
+Belirtilen her bir akış için metot yazılacak.
+
+Uygulamanın Akış Sırası
+
+1- Öğrenci Ekle
+2- Öğrenciler Listelenecek
+3- Seçilen öğrenci listeden silinecek
+4- Liste içinde herhangi bir öğrenci aranacak aranan öğrenci listede varsa aradığınız öğrenci listede bulunuyor denilecek
+5- Öğrenci Bilgisi güncellenecek(Sadece isimler tutulsun ve isim bilgisi güncellensin)
+
+
+*/
