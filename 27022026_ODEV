@@ -1,0 +1,22 @@
+Bir araç üretim fabrikası otomasyonu
+
+--
+Sahip olunan tek bir model var oda araç
+--
+
+---------
+Arac modelinin fieldları ;
+Kapı sayısı
+Renk 
+Marka 
+----------
+
+Bu tek bir model için statik olarak tanımlanmış bir liste için ekleme , silme , güncelleme , listeleme işlemleri yaptırılacak.
+
+-----
+
+Repository ve Service oluşturulsun
+
+----
+
+Derste yaptığımız örneğe bakarak yapabilirsiniz.
